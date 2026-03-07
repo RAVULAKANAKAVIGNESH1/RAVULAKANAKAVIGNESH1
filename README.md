@@ -16,4 +16,3 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=RAVULAKANAKAVIGNESH1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAVULAKANAKAVIGNESH1&layout=compact&theme=tokyonight)
 
-*(Note: Replace YOUR_USERNAME_HERE with your actual GitHub username in both links above)*
