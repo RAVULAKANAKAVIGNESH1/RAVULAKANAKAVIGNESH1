@@ -12,7 +12,6 @@
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-green?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 My GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=RAVULAKANAKAVIGNESH1&show_icons=true&theme=tokyonight)
+### 📊 My GitHub 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAVULAKANAKAVIGNESH1&layout=compact&theme=tokyonight)
 
