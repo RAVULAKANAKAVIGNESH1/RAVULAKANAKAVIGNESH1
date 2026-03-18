@@ -1,7 +1,7 @@
 # Hi, I'm Ravula Kanaka Vignesh,
 ### AI & Cloud Developer | Packaged App Development Associate
 
-- 🔭 I’m currently working on **Multimodal GenAI Agents** ,**AWS Bedrock** and **Roster Optimization**.
+- 🔭 I am currently working on **Multimodal GenAI Agents** ,**AWS Bedrock** and **Roster Optimization**.
 - ⚡ specialized in **Python**, **LLMs (RAG/LangChain)**, and **AWS Serverless**.
 - 💬 Ask me about: **Lang chain**, **Lang Graph**, **Google OR-Tools**, or **Automation**.
 
